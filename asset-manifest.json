@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gemini-react/static/css/main.6f857860.css",
+    "main.js": "/gemini-react/static/js/main.72b39935.js",
+    "index.html": "/gemini-react/index.html",
+    "main.6f857860.css.map": "/gemini-react/static/css/main.6f857860.css.map",
+    "main.72b39935.js.map": "/gemini-react/static/js/main.72b39935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f857860.css",
+    "static/js/main.72b39935.js"
+  ]
+}
