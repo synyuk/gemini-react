@@ -1,3 +1,3 @@
-const key = "AIzaSyAicwZiSUDfEyP2EBWThweckk2Zo2vEKp0";
+const key = process.env.REACT_APP_API_KEY;
 
 export default key;
